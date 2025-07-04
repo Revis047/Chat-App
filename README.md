@@ -50,3 +50,4 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 ![ddd](https://github.com/user-attachments/assets/a04f4e38-7a2e-47d4-b495-8081ceb9875d)
 
+![d](https://github.com/user-attachments/assets/d96760ef-9692-44d6-bd6b-da800e4b107c)
