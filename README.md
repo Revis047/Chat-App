@@ -1,6 +1,6 @@
 # 💬 MERN Stack Chat Application
 
-A full-featured, real-time chat application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js), featuring authentication, image sharing, theme switching, emoji support, and a modern UI with DaisyUI. State is managed globally using **Zustand**.
+A full-featured, real-time chat application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js), featuring authentication, image sharing, theme switching and a modern UI with DaisyUI. State is managed globally using **Zustand**.
 
 ## 🚀 Features
 
@@ -40,5 +40,13 @@ A full-featured, real-time chat application built with the **MERN stack** (Mongo
 | Media Upload | Cloudinary                         |
 | API Calls    | Axios                              |
 
+after clone this project   
+create  .env in your backend folder file and add this your own actual data 
+MONGO_URI=your_mongo_connection_string
+JWT_SECRET=your_jwt_secret
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_API_SECRET=your_api_secret
 
+![ddd](https://github.com/user-attachments/assets/a04f4e38-7a2e-47d4-b495-8081ceb9875d)
 
